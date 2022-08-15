@@ -46,8 +46,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/jessloke
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar #graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai #fas
     link: https://scholar.google.com/citations?hl=en&user=dGSPY_0AAAAJ 
   - icon: github
     icon_pack: fab
@@ -70,6 +70,8 @@ email: 'jessica_2020@hotmail.com'
 highlight_name: true
 ---
 
-Hello and welcome to my site! My research focuses on how we (humans) and machines see and know things. In my PhD, I have investigated how people and artificial networks differentiate objects from their backgrounds in natural scenes and how feedback connections in human brains assist with this process. I'm currently wrapping up my PhD and looking for new opportunities to continue in the same line of research. 
+Hello and welcome! My research focuses on how we (humans) and machines see and know things. In my PhD, I have investigated how people and artificial networks differentiate objects from their backgrounds in natural scenes and how feedback connections in human brains assist with this process. I'm currently wrapping up my PhD and looking for new opportunities to continue in the same line of research. 
+
+When I'm not doing research, I'm dancing, bouldering (which is basically dancing on walls), or making cocktails. I enjoy talking to people from diverse backgrounds and continually discovering surprising things in my environment. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_August2022.pdf" "newtab" >}}CV{{< /staticref >}}.
