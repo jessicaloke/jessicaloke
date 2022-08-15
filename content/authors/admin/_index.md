@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/CV_August2022.pdf
+  link: uploads/CV_Loke_August_2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'jessica_2020@hotmail.com'
@@ -74,4 +74,4 @@ Hello and welcome! My research focuses on how we (humans) and machines see and k
 
 When I'm not doing research, I'm dancing, bouldering (which is basically dancing on walls), or making cocktails. I enjoy talking to people from diverse backgrounds and continually discovering surprising things in my environment. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_August2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Loke_August_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
