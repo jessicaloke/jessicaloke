@@ -72,4 +72,4 @@ highlight_name: true
 
 Hello and welcome to my site! My research focuses on how we (humans) and machines see and know things. In my PhD, I have investigated how people and artificial networks differentiate objects from their backgrounds in natural scenes and how feedback connections in human brains assist with this process. I'm currently wrapping up my PhD and looking for new opportunities to continue in the same line of research. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
