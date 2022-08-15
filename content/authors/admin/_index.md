@@ -28,10 +28,10 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
-    - course: MSc in Psychology
+    - course: MSc in Psychology (cum laude)
       institution: University of Amsterdam
       year: 2017
-    - course: BA in Psychology and Classics & Religious Studies
+    - course: BA in Psychology and Classics & Religious Studies (honors & highest distinction)
       institution: University of Nebraska-Lincoln
       year: 2012
 
