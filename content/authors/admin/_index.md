@@ -31,7 +31,7 @@ education:
     - course: MSc in Psychology
       institution: University of Amsterdam
       year: 2017
-    - course: BA in Classics & Religious Studies, and Psychology 
+    - course: BA in Psychology and Classics & Religious Studies
       institution: University of Nebraska-Lincoln
       year: 2012
 
