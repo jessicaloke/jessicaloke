@@ -70,7 +70,7 @@ email: 'jessica_2020@hotmail.com'
 highlight_name: true
 ---
 
-Hello and welcome! My research focuses on how we (humans) and machines see and know things. Thus far, I have investigated how people and artificial networks differentiate objects from their backgrounds in natural scenes. I have also shown how feedback in human brains assist with this process. I'm currently wrapping up my PhD and looking for opportunities to continue in the same line of research. 
+Hello and welcome! My research focuses on how we (humans) and machines see and know things. Thus far, I have investigated how people and artificial networks differentiate objects from their backgrounds in natural scenes. I have also shown how feedback in human brains assist with this process of separating objects from their backgrounds. I'm currently wrapping up my PhD and looking for opportunities to continue in the same line of research. 
 
 When I'm not doing research, I'm running, dancing, or bouldering (i.e. dancing on walls). I enjoy talking to people from diverse backgrounds and continually discovering surprising things in my environment. 
 
