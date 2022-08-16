@@ -27,7 +27,7 @@ feature:
   - description: 
     icon: ":brain:"
     icon_pack: "emoji"
-    name: EEG & fMRI
+    name: Physiological measurements (e.g. EEG & fMRI)
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
 #  icon_pack: "emoji"
