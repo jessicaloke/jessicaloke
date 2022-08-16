@@ -25,11 +25,11 @@ feature:
     icon_pack: fas
     name: Statistics & machine learning
   - description: 
-    icon: brain-circuit
-    icon_pack: fas
+    icon: ":brain:"
+    icon_pack: "emoji"
     name: EEG & fMRI
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
+# - icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
 #  description: "100%"
