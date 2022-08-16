@@ -20,14 +20,14 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 100%
+  - description: 
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Statistics & machine learning
+  - description: 
+    icon: brain-circuit
     icon_pack: fas
-    name: Photography
+    name: EEG & fMRI
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
